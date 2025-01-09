@@ -1,0 +1,17 @@
+good morning pune
+1234
+welcome to File IO Stream chapter
+
+pune is good 
+but 
+hyd is very good
+
+File Stream 
+
+ganesh
+ruresh
+rajesh
+sanket
+karan
+yash
+suresh
